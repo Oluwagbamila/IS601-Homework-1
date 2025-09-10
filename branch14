@@ -1,0 +1,3 @@
+Command 14
+mv file.txt new_name.txt 
+renames the file "file.txt" to "new_name.txt".
