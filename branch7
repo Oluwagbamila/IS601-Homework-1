@@ -1,0 +1,3 @@
+Command 7 
+git log branchB..branchA
+show the commits on branchA that are not on branchB
