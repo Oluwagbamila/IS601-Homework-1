@@ -1,0 +1,3 @@
+Command 5
+git merge [branch]
+merge the specified branch’s history into the current one
