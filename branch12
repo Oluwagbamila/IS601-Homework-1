@@ -1,0 +1,3 @@
+Command 12
+rm file.txt
+deletes the file named "file.txt"
