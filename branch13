@@ -1,0 +1,3 @@
+Command 13
+cp -r directory destination 
+copies the directory "directory" and its contents to the specified destination.
