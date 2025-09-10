@@ -1,0 +1,3 @@
+Command 4
+git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot
