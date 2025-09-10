@@ -1,0 +1,3 @@
+Command 8
+git mv [existing-path] [new-path]
+change an existing file path and stage the move
